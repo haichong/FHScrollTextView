@@ -14,8 +14,9 @@ NS_ASSUME_NONNULL_BEGIN
 {
     CGFloat _autoScrollTimeInterval;
 }
-@property (nonatomic, copy) NSArray *textArr;
 
+/** 数据源 */
+@property (nonatomic, copy) NSArray *textArr;
 /** 字体大小，默认16 */
 @property (nonatomic, copy) UIFont *textFont;
 /** 字体颜色，默认blackColor */
