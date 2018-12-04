@@ -20,3 +20,4 @@
     scrollTextView.textAlignment = NSTextAlignmentCenter;
     scrollTextView.textArr = @[@"0000000000",@"1111111111",@"2222222222",@"3333333333",@"4444444444"];
 ```
+####[简书](https://www.jianshu.com/p/a7b7d2bed3f2)
